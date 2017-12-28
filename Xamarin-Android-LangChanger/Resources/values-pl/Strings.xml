@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_name">Zmiana języka przykład</string>
+  <string name="main_activity_title">Tytuł po polsku</string>
+  <string name="main_activity_desc">Tutaj jest opis po polsku.</string>
+  <string name="main_activity_about">O aplikacji po polsku.</string>
+  <string name="main_activity_to_tr_button">Polski</string>
+  <string name="main_activity_to_en_button">Angielski</string>
+  <string name="main_activity_toolbar_title">Tytuł po polsku</string>
+</resources>
